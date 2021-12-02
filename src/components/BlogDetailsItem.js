@@ -1,6 +1,6 @@
 import React from 'react'
 
-const BlogDetailsItem = ({id,title,description}) => {
+const BlogDetailsItem = ({title,description}) => {
     
     return (
         <div className="mt-5 ">
